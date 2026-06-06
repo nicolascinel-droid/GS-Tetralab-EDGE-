@@ -224,7 +224,7 @@ Esse recurso permite criar um histórico de funcionamento e acompanhar a evoluç
 
 # Link do Projeto
 
-Adicionar aqui o link público do Wokwi:
+
 
 [https://wokwi.com/](https://wokwi.com/projects/465209479035038721)
 
