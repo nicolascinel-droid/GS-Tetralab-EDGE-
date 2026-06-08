@@ -1,7 +1,7 @@
 # GS-Tetralab-EDGE-
 Projeto sobre a Tetrataenita
 
-# MAGNOSPACE – Sistema Inteligente de Monitoramento de Temperatura e Campo Magnético
+#TETRALAB – Sistema Inteligente de Monitoramento de Temperatura e Campo Magnético
 
 ## Integrantes
 
