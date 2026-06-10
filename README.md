@@ -253,7 +253,6 @@ Esses registros permitem acompanhar o histórico de funcionamento do sistema.
 
 # 🔗 Simulação no Wokwi
 
-Cole aqui o link público do projeto:
 
 [https://wokwi.com/](https://wokwi.com/projects/465209479035038721)
 
